@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buddy043
 - 👀 I’m interested in ...ethical hacking   
-- 🌱 I’m currently learning ...networking   
+- 🌱 I’m currently learning ... technology  
 - 💞️ I’m looking to collaborate on ...yes
 - 📫 How i learn....
 
